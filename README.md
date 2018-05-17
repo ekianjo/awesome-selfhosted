@@ -227,6 +227,7 @@ _CalDAV or CardDAV servers_
 - [EteSync Server](https://www.etesync.com) - End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients. ([Source Code](https://github.com/etesync/server-skeleton)) `AGPL-3.0` `Python/Django`
 - [Radicale](http://radicale.org/) - Simple calendar and contact server with extremely low administrative overhead. ([Source Code](https://github.com/Kozea/Radicale)) `GPL-3.0` `Python`
 - [SabreDAV](http://sabre.io/) - Open source CardDAV, CalDAV, and WebDAV framework and server. ([Source Code](https://github.com/sabre-io/dav)) `MIT` `PHP`
+- [NextCloud](https://nextcloud.com/) - General online storage solution (similar to Dropbox), also integrating a CalDAV and CardDAV server in its base packages. `GNU Affero General Public License`
 
 _CalDAV or CardDAV clients._
 
